@@ -1,4 +1,4 @@
-# 🔐 Secure Chat App – Streamlit Based Encrypted Messaging
+# 🔐 Secure Chat App – Streamlit Based End-to-End Encrypted Multimedia Platform
 
 A **real-time chat application** built with **Streamlit**, featuring **end-to-end encryption** using the `cryptography` library. This project demonstrates secure message exchange, lightweight UI, and interactive experience—all in your browser.
 
